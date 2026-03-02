@@ -14,3 +14,11 @@ ipykernel==6.25.2
 ipython==8.16.1
 typing_extensions==4.9.0
 
+# Backend API stack
+fastapi==0.115.8
+uvicorn==0.34.0
+sqlalchemy==2.0.38
+python-multipart==0.0.20
+werkzeug==3.1.3
+
+
